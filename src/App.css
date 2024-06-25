@@ -1,0 +1,17 @@
+.App{
+  display: flex;
+  justify-content: space-between;
+  padding: 40px;
+}
+
+.cropData{
+  width: 45%;
+}
+
+.fieldData{  
+  width: 45%;
+}
+
+.cropData,.fieldData table{
+  border: 2px solid #dee2e6;
+}
